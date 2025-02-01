@@ -32,7 +32,7 @@
     ```
 4. Fill Data 
     ```sh
-    nano wallets.json
+    nano wallets1.json
     ```
 4. Run the script:
     ```sh
